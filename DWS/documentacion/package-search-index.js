@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.apiPOSTGREsql.DWS"},{"l":"edu.apiPOSTGREsql.DWS.controller"},{"l":"edu.apiPOSTGREsql.DWS.dtos"},{"l":"edu.apiPOSTGREsql.DWS.repositorio"},{"l":"edu.apiPOSTGREsql.DWS.servicios"}];updateSearchResults();
